@@ -98,7 +98,8 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
+              <nexus.password>password</nexus.password>
+	      <name>Shekhar Releases Nexus Repository</name>
 	      <url>http://3.236.100.122:9980/shekhar/repository/wall-mart-release/</url>
 	    </repository>
 	    
