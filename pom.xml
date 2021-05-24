@@ -85,13 +85,6 @@
 		
 		<!-- provided dependencies -->
 
-		<dependency>
-			<groupId>javax.servlet</groupId>
-			<artifactsId>javax.servlet-api</artifactsId>
-			<version>3.1.0</version>
-			<scope>provided</scope>
-		</dependency>
-		
 	</dependencies>
 	
 	<distributionManagement>
