@@ -98,14 +98,12 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <password>password</paswword>
              <name>Mithun Technologies Releases Nexus Repository</name>
 	     <url>http://3.236.100.122:9980/shekhar/repository/wall-mart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <password>password</paswword>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
 	      <url>http://3.236.100.122:9980/shekhar/repository/uplers-snapshot/</url>
 	    </snapshotRepository>
