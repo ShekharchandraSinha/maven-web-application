@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://44.192.51.165:9980/</sonar.host.url>
+		<sonar.host.url>http://3.236.9.81:9980/</sonar.host.url>
                 <sonar.login>admin</sonar.login>
 		<sonar.password>Password</sonar.password>  
               
@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://3.227.240.45:9980/shekhar/repository/wall-mart-release/</url>
+	      <url>http://3.236.100.122:9980/shekhar/repository/wall-mart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.227.240.45:9980/shekhar/repository/wall-mart-snapshot/</url>
+	      <url>http://3.236.100.122:9980/shekhar/repository/wall-mart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
